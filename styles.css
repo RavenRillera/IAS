@@ -235,6 +235,13 @@ body {
     font-size: 0.9rem;
 }
 
+.project-item img {
+    width: 100%;
+    max-width: 500px;
+    margin-top: 1rem;
+    border-radius: 6px;
+}
+
 /* ===== Topics Section ===== */
 .topics-section {
     background: var(--bg-primary);
