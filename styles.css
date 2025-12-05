@@ -235,11 +235,6 @@ body {
     font-size: 0.9rem;
 }
 
-.project-item img {
-    max-width: 600px;
-    height: auto;
-    margin-top: 0.5rem;
-}
 
 /* ===== Topics Section ===== */
 .topics-section {
